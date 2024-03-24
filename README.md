@@ -1,2 +1,2 @@
-# zomoto-clone-frontend
+# zomoto clone
 simple zomoto clone 
